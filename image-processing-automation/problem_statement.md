@@ -1,4 +1,4 @@
-#🖼️ Project Problem Statement: Image Processing Automation
+## Project Problem Statement: Image Processing Automation
 
 As part of this project, I address a real-world image processing challenge using Python.
 
