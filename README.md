@@ -18,7 +18,7 @@ This script automates the entire process—turning hours of manual work into a m
 
 ---
 
-## 🚀 Features
+## Features
 - **Batch Processing:** Iterates through all images in the input folder
 - **Rotation Fix:** Rotates each image to the correct orientation
 - **Resizing:** Scales images to the required web dimensions
@@ -32,16 +32,15 @@ This script automates the entire process—turning hours of manual work into a m
 - **Library:** [Pillow (PIL Fork)](https://pillow.readthedocs.io/)  
 
 ---
-
 ## 📂 Project Structure
 image-processing-automation/
-│
 ├── images/ # Original input images
 ├── processed_images/ # Output folder for processed images
 ├── image_process.py # Core processing logic
 ├── image_process_script.py # Script to run the processing
 ├── images.zip # Sample input images (compressed)
-├── problem_statement.md # Original problem description
+└── problem_statement.md # Original problem description
+
 
 ## 🔄 How It Works
 1. **Scan Input Folder** – The script reads all image files inside `images/`.  
