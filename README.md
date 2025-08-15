@@ -33,7 +33,7 @@ This script automates the entire process—turning hours of manual work into a m
 
 ---
 ## 📂 Project Structure
-(image-processing-automation/
+'''image-processing-automation/
     ├── images/
         ├── .DS_Store
         ├── ic_add_location_black_48dp
@@ -247,7 +247,7 @@ sales_summary_automation/
     ├── email.py
     ├── Problem_statement.md
     └── report.py
-README.md)
+README.md'''
 
 
 ## 🔄 How It Works
