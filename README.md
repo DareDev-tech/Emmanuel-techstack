@@ -32,9 +32,8 @@ This script automates the entire process—turning hours of manual work into a m
 - **Library:** [Pillow (PIL Fork)](https://pillow.readthedocs.io/)  
 
 ---
-## 📂 Project Structure
-## 📂 Project Structure
 
+## 📂 Project Structure
     Emmanuel-techstack/
     ├── image-processing-automation/
     │   ├── image_process_script.py
